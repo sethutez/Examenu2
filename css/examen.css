@@ -1,0 +1,14 @@
+body{
+	/* background-color: green; */
+	background-image:url(../images/win.jpg); 
+}
+
+#encabezado{
+	color:orange;
+	text-align: center;
+	border-radius: 50px;
+	width: 50%;
+	margin: 10px 10px;
+	padding: 10px 10px 10px 10px;
+	background-color: #0F2DAA;
+}
